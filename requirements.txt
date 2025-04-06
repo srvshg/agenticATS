@@ -1,0 +1,12 @@
+streamlit
+gdown
+pdfminer.six
+python-docx
+langchain
+openai
+faiss-cpu
+sentence-transformers
+huggingface-hub
+spacy
+langchain-community
+PyPDF2
